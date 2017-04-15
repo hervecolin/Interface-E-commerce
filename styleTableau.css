@@ -1,0 +1,52 @@
+
+body
+{
+	background-image:url(Ecommerce.png);
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+h1
+{
+	color:grey;
+	text-align:center;
+	font-family: Equal Sans Demo;
+	font-size:40px;
+}
+a
+{
+    color: red;
+    text-decoration: none;
+	font-size:40px;
+	font-family: Equal Sans Demo;
+  }
+td  {
+border: 2px solid black;
+width: 25%;
+}
+th{
+border: 2px solid black;
+background-color: blue;
+color:white; 	
+}
+table
+ {
+   border-collapse: collapse;
+   border:2px solid black;
+   width: 100%;
+   text-align:center;
+   font-family: Equal Sans Demo;
+   font-size:20px;
+   color:blue;
+}
+p{
+	color:black;
+	text-align:center;
+	font-family: Equal Sans Demo;
+	font-size:30px;
+}
+.form1{
+width: 25%;
+}
+.form2{
+	width: 25%;
+}
